@@ -25,9 +25,5 @@ function printPrime(n)
 </script>
 </head>
 <body>
-    <a href="https://munkhtulga0826.github.io/lab7/">bod<a>
-  <a href="https://munkhtulga0826.github.io/lab7-2/">bod2<a>
-   <a href="https://munkhtulga0826.github.io/lab7-4/">bod4<a>
-    <a href="https://munkhtulga0826.github.io/lab7-5/">bod5<a>
 </body>
 </html>
