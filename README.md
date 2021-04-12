@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <script>
+    var n;
+    n = window.prompt('toogoo oruul');
 function isPrime(n)
 {
     if (n <= 1)
