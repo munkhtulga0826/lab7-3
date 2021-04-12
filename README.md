@@ -31,5 +31,3 @@ function printPrime(n)
     <a href="https://munkhtulga0826.github.io/lab7-5/">bod5<a>
 </body>
 </html>
-</body>
-</html>
