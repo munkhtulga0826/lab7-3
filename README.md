@@ -20,23 +20,7 @@ function printPrime(n)
     }
 } 
     let n = window.prompt('toogoo oruul');
-    printPrime(n);                         
-      function sumPrimes(num) {  
-    var prime = []; 
-       for(var n = 2; n <= numArgOne; n++) {
-      if(isPrime(n)) {
-          prime.push(n);
-      }      
-    }  
-    function isPrime(numArgTwo) {
-      for (var j = 2; j < numArgTwo; j++) {
-        if (numArgTwo% j === 0) {
-          return false;
-        }
-      }
-      return true;
-    }    
-  return prime;  
+    printPrime(n);                              
 }                     
 </script>
 </head>
