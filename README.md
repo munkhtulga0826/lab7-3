@@ -12,8 +12,7 @@ function isPrime(n)
     for (let i = 2; i < n; i++)
         if (n % i == 0)
             return false;
- 
-    return true;
+  return true;
 }
 function printPrime(n)
 {
@@ -22,8 +21,6 @@ function printPrime(n)
             document.write(i +" ");
     }
 } 
-    let n = 7;
-    printPrime(n);
 </script>
 </head>
 <body>
