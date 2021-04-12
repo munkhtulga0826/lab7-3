@@ -21,6 +21,8 @@ function printPrime(n)
 } 
     let n = window.prompt('toogoo oruul');
     printPrime(n);                         
+      function sumPrimes(num) {  
+    var prime = []; 
        for(var n = 2; n <= numArgOne; n++) {
       if(isPrime(n)) {
           prime.push(n);
